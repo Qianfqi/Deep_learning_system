@@ -5,14 +5,15 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "D:/python/python3/Lib/site-packages/pybind11/include",
-                "D:/python/python3/include"
+                "D:/python/python3/include",
+                "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.7/include"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "D:\\DEV\\Dev-Cpp\\MinGW64\\bin\\gcc.exe",
+            "compilerPath": "D:/DEV/Dev-Cpp/MinGW64/bin/g++.exe",
             "cStandard": "c11",
             "cppStandard": "c++14",
             "intelliSenseMode": "windows-gcc-x64"

@@ -1,5 +1,7 @@
 {
     "files.associations": {
         "iostream": "cpp"
-    }
+    },
+    "makefile.makefilePath": "D:\\dlsys\\hw3\\makefile",
+    "makefile.makePath": "D:\\Clion\\mingw64\\bin"
 }
