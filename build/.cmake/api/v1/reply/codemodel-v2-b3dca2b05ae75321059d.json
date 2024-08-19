@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "needle",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ndarray_backend_cpu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ndarray_backend_cpu-Debug-2bcac9fc96ae5af70c4b.json",
+					"name" : "ndarray_backend_cpu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ndarray_backend_cuda::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ndarray_backend_cuda-Debug-587bc89d50061cdd3a80.json",
+					"name" : "ndarray_backend_cuda",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/qianfqi/dlsys/build",
+		"source" : "/mnt/d/dlsys/hw3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

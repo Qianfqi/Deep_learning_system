@@ -1,0 +1,4 @@
+/home/qianfqi/dlsys/build/CMakeFiles/rebuild_cache.dir
+/home/qianfqi/dlsys/build/CMakeFiles/edit_cache.dir
+/home/qianfqi/dlsys/build/CMakeFiles/ndarray_backend_cuda.dir
+/home/qianfqi/dlsys/build/CMakeFiles/ndarray_backend_cpu.dir

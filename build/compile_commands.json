@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/qianfqi/dlsys/build",
+  "command": "/usr/bin/g++-8  -Dndarray_backend_cpu_EXPORTS -isystem /usr/include/python3.8 -isystem /home/qianfqi/.local/lib/python3.8/site-packages/pybind11/include -isystem /usr/local/cuda-12.6/include  -std=c++11 -O2 -march=native  -g -fPIC -fvisibility=hidden   -o CMakeFiles/ndarray_backend_cpu.dir/src/ndarray_backend_cpu.cc.o -c /mnt/d/dlsys/hw3/src/ndarray_backend_cpu.cc",
+  "file": "/mnt/d/dlsys/hw3/src/ndarray_backend_cpu.cc"
+}
+]

@@ -1,7 +1,11 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "cmath": "cpp"
     },
     "makefile.makefilePath": "D:\\dlsys\\hw3\\makefile",
-    "makefile.makePath": "D:\\Clion\\mingw64\\bin"
+    "makefile.makePath": "D:\\Clion\\mingw64\\bin",
+    "python.analysis.autoImportCompletions": true,
+    "cmake.sourceDirectory": "/mnt/d/dlsys/hw3",
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc-8"
 }
